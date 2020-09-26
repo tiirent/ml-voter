@@ -24,7 +24,7 @@ class VoteComponent extends React.Component {
     return (
       <form onSubmit={this.handleSubmit}>
         <label>Account:</label>
-        <input type="text" value={this.state.value} onChange={this.handleChange} />
+        <input type="text" autocomplete="on" value={this.state.value} onChange={this.handleChange} />
         <input type="submit" value="Submit" />
       </form>
     );
