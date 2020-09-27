@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fa8bd73b31f9a55f76b7bcf31b818dc9",
+    "revision": "4cee9330fb8214d36a92788cfda22f66",
     "url": "/ml-voter/index.html"
   },
   {
-    "revision": "597a7decc6ef02ff2911",
+    "revision": "5075de9b4974c7d6c081",
     "url": "/ml-voter/static/css/main.a9657cff.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ml-voter/static/js/2.7bbd1e0c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "597a7decc6ef02ff2911",
-    "url": "/ml-voter/static/js/main.3b3ee6eb.chunk.js"
+    "revision": "5075de9b4974c7d6c081",
+    "url": "/ml-voter/static/js/main.5fe69523.chunk.js"
   },
   {
     "revision": "0f98246b73e098bb8367",
