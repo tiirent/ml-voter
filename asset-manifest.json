@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ml-voter/static/css/main.a9657cff.chunk.css",
-    "main.js": "/ml-voter/static/js/main.a4f76778.chunk.js",
-    "main.js.map": "/ml-voter/static/js/main.a4f76778.chunk.js.map",
+    "main.js": "/ml-voter/static/js/main.2a6c742c.chunk.js",
+    "main.js.map": "/ml-voter/static/js/main.2a6c742c.chunk.js.map",
     "runtime-main.js": "/ml-voter/static/js/runtime-main.070135f5.js",
     "runtime-main.js.map": "/ml-voter/static/js/runtime-main.070135f5.js.map",
     "static/js/2.9d634202.chunk.js": "/ml-voter/static/js/2.9d634202.chunk.js",
     "static/js/2.9d634202.chunk.js.map": "/ml-voter/static/js/2.9d634202.chunk.js.map",
     "index.html": "/ml-voter/index.html",
-    "precache-manifest.5541a276ff3b096a743758103c8b0a57.js": "/ml-voter/precache-manifest.5541a276ff3b096a743758103c8b0a57.js",
+    "precache-manifest.dd34d9e0f7a467f0e70f397681f68804.js": "/ml-voter/precache-manifest.dd34d9e0f7a467f0e70f397681f68804.js",
     "service-worker.js": "/ml-voter/service-worker.js",
     "static/css/main.a9657cff.chunk.css.map": "/ml-voter/static/css/main.a9657cff.chunk.css.map",
     "static/js/2.9d634202.chunk.js.LICENSE.txt": "/ml-voter/static/js/2.9d634202.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.070135f5.js",
     "static/js/2.9d634202.chunk.js",
     "static/css/main.a9657cff.chunk.css",
-    "static/js/main.a4f76778.chunk.js"
+    "static/js/main.2a6c742c.chunk.js"
   ]
 }
