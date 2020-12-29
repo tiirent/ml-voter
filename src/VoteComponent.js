@@ -35,7 +35,7 @@ class VoteComponent extends React.Component {
         <table>
           <tr>
             <input type="text" value={this.state.value} onChange={this.handleChange}
-                    name="username" autocomplete="on"/>
+                    name="maplelegendsid" autocomplete="on"/>
           </tr>
           <tr>
             <img src = {redkimmy} onClick={this.handleRedKimmy}/>
