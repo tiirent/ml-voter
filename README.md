@@ -7,4 +7,4 @@ currently should be available on my [github pages](https://tiirent.github.io/ml-
   npm start
 
 # deploy
-  npm run build
+  npm run deploy
